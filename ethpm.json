@@ -1,0 +1,12 @@
+{
+  "package_name": "ens-tcregistrar",
+  "version": "0.0.1",
+  "description":
+    "An ENS registrar that grants subdomains based on listings in a token-curated registry",
+  "authors": ["Arseniy Klempner <adklempner@gmail.com>"],
+  "keywords": ["ethereum", "tcr", "ens"],
+  "dependencies": {
+    "tcr": "1.0.0"
+  },
+  "license": "MIT"
+}
